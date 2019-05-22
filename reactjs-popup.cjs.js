@@ -298,10 +298,7 @@ var styles = {
       boxShadow: "rgba(0, 0, 0, 0.2) 0px 1px 3px",
       padding: '5px'
     },
-    modal: {
-      position: 'relative',
-      background: "none"
-    }
+    modal: {}
   },
   popupArrow: {
     height: '10px',
@@ -321,16 +318,7 @@ var styles = {
       left: '0',
       right: '0'
     },
-    modal: {
-      position: 'fixed',
-      top: '0',
-      bottom: '0',
-      left: '0',
-      right: '0',
-      background: "none",
-      display: 'flex',
-      zIndex: '999999'
-    }
+    modal: {}
   }
 };
 
